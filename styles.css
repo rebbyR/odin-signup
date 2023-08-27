@@ -12,6 +12,9 @@
     height: 800px;
     border: 1px solid black;
     overflow: hidden;
+    position: relative;
+    top: 500;
+    left: 50;
 }
 
 .left {
